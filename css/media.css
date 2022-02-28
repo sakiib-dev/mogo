@@ -1,0 +1,504 @@
+@media (min-width: 1400px) {
+    .ban-text h1 {
+        font-size: 150px;
+        padding-bottom: 20px;
+        line-height: 140px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .text-center {
+        margin-top: 54px;
+    }
+    .ban-text h1 {
+        font-size: 117px;
+        padding-top: 4px;
+        padding-bottom: 0px;
+        line-height: 105px;
+    }
+    .ban-text h2 {
+        font-size: 63px;
+    }
+    .b-button {
+        padding-top: 61px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .ban-text h1 {
+        font-size: 119px;
+        padding-top: 20px;
+        line-height: 101px;
+    }
+    .ban-text h2 {
+        font-size: 60px;
+    }
+    .ban-text h1::after {
+        bottom: -3px;
+        width: 43px;
+    }
+    .ban-text a {
+        font-size: 14px;
+        padding: 4px 17px;
+        border: 3px solid #fff;
+    }
+    .ban-text {
+        margin-top: 46px;
+    }
+    .b-button {
+        padding-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+         color: #333;
+         text-align: center;
+    }
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .header-text h4 {
+        font-size: 20px;
+        padding-bottom: 3px;
+    }
+    .header-text h3 {
+        font-size: 25px;
+        padding-bottom: 35px;
+    }
+    .header-text h3::after {
+        width: 50px;
+        height: 3px;
+    }
+    .header-text p {
+        padding: 5px 15px 32px 15px;
+    }
+    .s-item-text p {
+        padding-right: 0;
+    }
+   .s-item {
+        margin-bottom: 15px;
+    }
+    .text-center {
+        margin-bottom: 10px;
+    }
+    .s-wrapper2 {
+        margin-top: 0;
+    }
+   .comment-text p {
+	font-size: 18px;
+    text-align: left;
+    }
+    .comment-text p::after {
+        left: 0px;
+    }
+    .comment-text h4 {
+        text-align: left;
+        margin-left: 101px;
+    }
+    
+    .header-text p {
+        padding: 19px 0px 32px 0px;
+    }
+    .f-icon i {
+        padding: 0 5px;
+    }
+    .f-form input {
+        width: 295px;
+    }
+
+    .f-header h4 {
+        margin-top: 0px;
+    }
+    .blogs-content {
+        text-align: left;
+    }
+    .blogs-content p {
+        padding: 2px 1px;
+    }
+    .w-overlay-content h4 {
+        font-size: 10px;
+    }
+    .w-overlay-content p {
+        font-size: 12px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .ban-text h1 {
+        font-size: 74px;
+        padding-bottom: 20px;
+        line-height: 73px;
+    }
+    .ban-text h2 {
+        font-size: 60px;
+    }
+    .ban-text h1::after {
+        bottom: -3px;
+        width: 43px;
+    }
+    .ban-text a {
+        font-size: 14px;
+        padding: 4px 17px;
+        border: 3px solid #fff;
+    }
+   .navbar-nav{
+       background-color: indianred;
+   }
+   .navbar-nav a{
+       color: black;
+   }
+    .ban-text {
+        margin-top: 46px;
+    }
+    .b-button {
+        padding-top: 15px;
+    }
+    .navbar-brand h2 {
+        font-size: 24px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+         color: #333;
+         text-align: center;
+    }
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #about {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .header-text h4 {
+        font-size: 20px;
+        padding-bottom: 3px;
+    }
+    .header-text h3 {
+        font-size: 25px;
+        padding-bottom: 35px;
+    }
+    .header-text h3::after {
+        width: 50px;
+        height: 3px;
+    }
+    .header-text p {
+        padding: 5px 15px 32px 15px;
+    }
+    #counter {
+        padding: 45px 0;
+    }
+    #service {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .s-item-text p {
+        padding-right: 0;
+    }
+   .s-item {
+        margin-bottom: 15px;
+    }
+    .text-center {
+        margin-bottom: 10px;
+    }
+    .s-wrapper2 {
+        margin-top: 0;
+    }
+   .comment-text p {
+	font-size: 18px;
+    text-align: left;
+    }
+    .comment-text p::after {
+        left: 0px;
+    }
+    .comment-text h4 {
+        text-align: left;
+        margin-left: 101px;
+    }
+    #team {
+        padding: 50px 0;
+    }
+    .icon-i i {
+        width: 46px;
+        height: 46px;
+    }
+    .header-text p {
+        padding: 19px 0px 32px 0px;
+    }
+    .f-icon i {
+        padding: 0 5px;
+    }
+    .f-form input {
+        width: 295px;
+    }
+    .f-form button {
+        top: 46px;
+        left: 0px;
+    }
+    .f-header h4 {
+        margin-top: 78px;
+        margin-bottom: -23px;
+    }
+    .blogs-content {
+        text-align: left;
+    }
+    .blogs-content p {
+        padding: 2px 1px;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .ban-text h1 {
+        font-size: 47px;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        line-height: 40px;
+    }
+    .ban-text h2 {
+        font-size: 41px;
+    }
+    .ban-text h1::after {
+        bottom: -3px;
+        width: 43px;
+    }
+    .ban-text a {
+        font-size: 13px; 
+        padding: 2px 14px;
+        border: 2px solid #fff;
+    }
+   .navbar-nav{
+       background-color: indianred;
+   }
+   .navbar-nav a{
+       color: black;
+   }
+    .ban-text {
+        margin-top: 46px;
+    }
+    .b-button {
+        padding-top: 15px;
+    }
+    .navbar-brand h2 {
+        font-size: 24px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+         color: #333;
+         text-align: center;
+    }
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #about {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .header-text h4 {
+        font-size: 20px;
+        padding-bottom: 3px;
+    }
+    .header-text h3 {
+        font-size: 25px;
+        padding-bottom: 35px;
+    }
+    .header-text h3::after {
+        width: 50px;
+        height: 3px;
+    }
+    .header-text p {
+        padding: 5px 15px 32px 15px;
+    }
+    #counter {
+        padding: 45px 0;
+    }
+    #service {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .s-item-text p {
+        padding-right: 0;
+    }
+   .s-item {
+        margin-bottom: 15px;
+    }
+    .text-center {
+        margin-bottom: 10px;
+    }
+    .s-wrapper2 {
+        margin-top: 0;
+    }
+    .comment-text p {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .comment-text p::after {
+        left: 52px;
+    }
+    .comment-text h4 {
+        text-align: center;
+        margin-left: 0;
+        font-size: 20px;
+    }
+    #team {
+        padding: 50px 0;
+    }
+    .icon-i i {
+        width: 46px;
+        height: 46px;
+    }
+    .header-text p {
+        padding: 19px 0px 32px 0px;
+    }
+    .f-icon i {
+        padding: 0 5px;
+    }
+    .f-form input {
+        width: 295px;
+    }
+    .f-form button {
+        top: 46px;
+        left: 0px;
+    }
+    .f-header h4 {
+        margin-top: 78px;
+        margin-bottom: -23px;
+    }
+    .blogs-content {
+        text-align: left;
+    }
+    .blogs-content p {
+        padding: 2px 1px;
+    }
+}
+
+
+@media (max-width: 575.99px) {
+    .ban-text h1 {
+        font-size: 20px;
+        padding-top: 8px;
+        padding-bottom: 0;
+        line-height: 0;
+    }
+    .ban-text h2 {
+        font-size: 17px;
+    }
+    .ban-text h1::after {
+      display: none;
+    }
+    .ban-text a {
+        font-size: 13px; 
+        padding: 2px 14px;
+        border: 2px solid #fff;
+    }
+   .navbar-nav{
+       background-color: indianred;
+   }
+   .navbar-nav a{
+       color: black;
+   }
+    .ban-text {
+        margin-top: 46px;
+    }
+    .b-button {
+        padding-top: 9px;
+    }
+    .navbar-brand h2 {
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+         color: #333;
+         text-align: center;
+    }
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #about {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .header-text h4 {
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    .header-text h3 {
+        font-size: 17px;
+        padding-bottom: 22px;
+    }
+    .header-text h3::after {
+        bottom: 11px;
+        left: 50%;
+        width: 35px;
+        height: 2px;
+    }
+    .header-text p {
+        padding: 5px 15px 32px 15px;
+    }
+    #counter {
+        padding: 45px 0;
+    }
+    #service {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .s-item-text p {
+        padding-right: 0;
+    }
+   .s-item {
+        margin-bottom: 15px;
+    }
+    .text-center {
+        margin-bottom: 10px;
+    }
+    .s-wrapper2 {
+        margin-top: 0;
+    }
+    .comment-text p {
+        margin-left: 0;
+        padding-right: 0;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    .comment-text p::after {
+        display: none;
+    }
+    .comment-text h4 {
+        text-align: center;
+        margin-left: 0;
+        font-size: 20px;
+    }
+    #team {
+        padding: 50px 0;
+    }
+    .header-text p {
+        padding: 19px 0px 32px 0px;
+    }
+    .f-icon i {
+        padding: 0 5px;
+    }
+    .f-form input {
+        width: 295px;
+    }
+    .f-form button {
+        top: 46px;
+        left: 0px;
+    }
+    .f-header h4 {
+        margin-top: 78px;
+        margin-bottom: -23px;
+    }
+    .blogs-content{
+        text-align: center;
+    }
+    .blogs-content p {
+        padding: 2px 1px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 575.99px) {
+    .s-item-text p {
+        padding: 0 101px;
+    }
+}
