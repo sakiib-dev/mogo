@@ -38,7 +38,7 @@ $(function () {
     $('.comment-main-slider').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 2000,
         arrows: true,
         prevArrow: ".left",
@@ -48,7 +48,7 @@ $(function () {
     $('.team-slider').slick({
         slidesToShow: 3,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 2000,
         arrows: false,
         pauseOnHover :false,
